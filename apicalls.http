@@ -1,0 +1,7 @@
+POST https://XXX.XXX.XXX.XXX/webhooks/rest/webhook HTTP/1.1
+content-type: application/json
+
+{
+    "sender_id": "bar",
+    "message": "hi"
+}

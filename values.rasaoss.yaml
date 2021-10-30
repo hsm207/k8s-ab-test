@@ -1,0 +1,16 @@
+image:
+  tag: 2.8.12
+
+nginx:
+  enabled: false
+
+ingress:
+  enabled: false
+
+applicationSettings:
+  debugMode: true
+  telemetry:
+    enabled: false
+  credentials:
+    additionalChannelCredentials:
+      rest:
