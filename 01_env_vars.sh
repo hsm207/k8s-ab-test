@@ -1,8 +1,10 @@
 #!/bin/bash
 
-# namespace for first model
-NS_MODEL_A=model-a
+# namespace to deploy all models
+NS_MODEL=model
 
-# namespace for second model
-NS_MODEL_B=model-b
+# release name for model A
+RELEAS_NS_MODEL_A=model-a
 
+# release name for model B
+RELEAS_NS_MODEL_A=model-b

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-kubectl create namespace $NS_MODEL_A && \
-    kubectl create namespace $NS_MODEL_B
+# create a namespace to deploy all models
+kubectl create namespace $NS_MODEL
