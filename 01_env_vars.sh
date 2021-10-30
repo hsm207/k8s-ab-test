@@ -4,7 +4,7 @@
 NS_MODEL=model
 
 # release name for model A
-RELEAS_NS_MODEL_A=model-a
+RELEASE_MODEL_A=model-a
 
 # release name for model B
-RELEAS_NS_MODEL_A=model-b
+RELEASE_MODEL_B=model-b
